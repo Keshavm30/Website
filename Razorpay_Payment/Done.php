@@ -12,6 +12,5 @@
     window.close();
   }
 </script>
-</script>
 </Body>
 </HTML>
