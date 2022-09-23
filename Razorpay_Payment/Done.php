@@ -4,7 +4,6 @@
 </Head>
 <Body>
 <Center><img src="icon-256x256.gif">
- onload="waitFiveSec()"> <!--it will wait to load-->
 
 <!-- your html... -->
 <script>
